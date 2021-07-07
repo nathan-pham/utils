@@ -1,1 +1,1 @@
-module.exports.std = require("./src/std")
+module.exports = require("./src")
